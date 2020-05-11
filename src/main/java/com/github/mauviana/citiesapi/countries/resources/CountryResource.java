@@ -1,7 +1,7 @@
-package com.github.mauviana.citiesapi.resources;
+package com.github.mauviana.citiesapi.countries.resources;
 
-import com.github.mauviana.citiesapi.entities.Country;
-import com.github.mauviana.citiesapi.repositories.CountryRepository;
+import com.github.mauviana.citiesapi.countries.entities.Country;
+import com.github.mauviana.citiesapi.countries.repositories.CountryRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;

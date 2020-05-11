@@ -1,4 +1,4 @@
-package com.github.mauviana.citiesapi.entities;
+package com.github.mauviana.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
